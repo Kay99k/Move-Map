@@ -1,0 +1,12 @@
+{
+  "name": "move-map",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Move Map - board-game-style move planner with an LLM chatbot (K's Move Bot). Zero dependencies.",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=18" }
+}
